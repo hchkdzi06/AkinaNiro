@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+    <title>Anime site</title>
+  </head>
+  <body  id="home">
+    <div class="lenguages-selector">
+      <button class="en-leng js-button selected" id="en-leng">en</button>
+      <button class="pl-leng js-button">pl</button>
+      <button class="ua-leng js-button">ua</button>
+    </div>
+
+
+    <div style="height: 15px;"></div>
+    <header class="header">
+      <div class="bg"></div>
+      
+
+      <div class="header-top">
+        <a href="#menu">
+          <img 
+            src="images/icons/Icon-Burger-menu.png"
+            alt="Burger-menu"
+            class="icon-menu"
+          >
+        </a>
+      </div>
+    </header>
+
+    <div class="menu" id="menu">
+      <a href="#home">
+        <img src="images/icons/Icon-Close.png"
+          alt="Close"
+          class="close-icon"
+        >
+      </a>
+      <nav class="nav">
+        <a href="#recomended" class="nav-link  recomended-item">recommended</a>
+        <a href="#your-list" class="nav-link your-list-item">your list</a>
+        <a href="#songs" class="nav-link songs-item">songs</a>
+      </nav>
+    </div>
+   
+
+    <main class="main">
+      <!-- #region recomended-anime -->
+
+      <section class="recomended" id="recomended">
+        <div class="title-container">
+          <div class="recomented-title">Recommented</div>
+        </div>
+        
+
+        <div class="img-conteiner" id="img-conteiner">
+          <!-- Group images 3 -->
+          <div class="group-img1" id="group-img1">
+             
+              <img 
+                src="images/evil-friren.jpg" class="evil-friren-img anime-item"
+                alt="Friren"
+                data-id="1"
+                id="myid"
+              >
+           
+            
+              <img 
+                src="images/Inaba.jpg"
+                class="inaba-img anime-item"
+                alt="Inaba"
+                data-id="2"
+              >
+           
+           
+              <img 
+                src="images/noragami.jpg" class="noragami-img anime-item"
+                alt="Nora from Noragami"
+                data-id="3"
+              >
+          </div>
+          
+
+          <div class="article-container"></div>
+
+          <!-- Group images 3 -->
+          <div class="group-img2">
+            
+              <img 
+                src="images/choso.jpg" 
+                class="choso-img anime-item"
+                alt="Choso"
+                data-id="4"
+              >
+            
+              <img 
+                src="images/hchkdzi.jpg"
+                class="hchkdzi anime-item"
+                alt="Hachikudzi"
+                data-id="5"
+              >
+           
+              <img 
+                src="images/killua.jpg" class="killua-img anime-item"
+                alt="Killua"
+                data-id="6" 
+              >
+           
+            
+          </div>
+
+          <!-- Group images 3 -->
+          <div class="group-img3">
+            <img 
+              src="images/isekai.jpg" 
+              alt="Silfi"
+              class="silfi anime-item"
+              data-id="7"
+            >
+            <img 
+              src="images/mashle.jpg" 
+              alt="Mashle"
+              class="mashle anime-item"
+              data-id="8"
+            >
+            <img 
+              src="images/hello-god.jpg" 
+              alt="Nanami and Tomoje"
+              class="nanami-and-tomoje anime-item"
+              data-id="9"
+            >
+          </div>
+          
+        </div>
+      </section>
+      <!-- #endregion  -->
+
+      <section class="your-list-section" id="your-list">
+        <div class="title-container">
+          <div class="list-title">
+            Your list
+          </div>
+        </div>
+        
+        <div class="full-list-container">
+          <ul class="list-items"></ul>
+        </div>
+        
+      </section>
+    </main>
+
+    <footer class="footer"></footer>
+
+    
+    <p class="flex-input-container">
+      <input type="text" placeholder="add your anime..." class="name-input js-name-input">
+      <button class="add-new-anime-button js-add-new-anime-button">add</button>
+    </p>
+    
+
+    
+
+
+    <script type="module" src="scripts/script.js"></script>
+    <script type="module" src="scripts/buttons.js"></script>
+    <script type="module" src="scripts/your-list.js"></script>
+  </body>
+</html>
+
+
+

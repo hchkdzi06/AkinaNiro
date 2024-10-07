@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Frieren. U kresu drogi",
+    "genre": "przygoda, fantasy, dramat",
+    "description": "Wyobraź sobie elfa, która przeżyła epickie przygody i teraz wyrusza w podróż nie dla bitew czy chwały, ale by zrozumieć sens tego, czego doświadczyła. To nie jest tylko podróż przez przestrzeń, ale przez czas i duszę. Anime podąża za Frieren, gdy szuka odpowiedzi na pytania, które pozostały po wielkiej przygodzie, splatając się z głębokimi ludzkimi doświadczeniami, które mocno rezonują. To nie tylko piękne krajobrazy i wciągająca fabuła; muzyka tutaj tworzy niezapomnianą atmosferę. OST-y tutaj to nie tylko tło dźwiękowe; są integralną częścią emocjonalnej podróży, która pozostawia niezatarte wrażenie."
+  },
+  {
+    "id": 2,
+    "name": "Cuticle Detective Inaba",
+    "genre": "akcja, komedia, detektyw, fantasy", 
+    "description": "Bohater, Inaba, jest prywatnym detektywem i półwilkiem z unikalnymi zdolnościami, który wykorzystuje swoje wilcze instynkty do rozwiązywania tajemniczych spraw i łapania przestępców. Anime jest pełne nieoczekiwanych zwrotów akcji i błyskotliwych momentów, które trzymają widzów w napięciu i zapewniają rozrywkę. Każdy odcinek przedstawia nowe intrygujące sprawy i ekscytujące przygody, oferując mieszankę zabawnych sytuacji i dynamicznych śledztw."
+  },
+  {
+    "id": 3,
+    "name": "Noragami",
+    "genre": "przygoda, fantasy, komedia",
+    "description": "Anime o bogu bez świątyni i wyznawców, Yato, który marzy o zdobyciu sławy. Podejmuje się każdej pracy za skromną opłatę 5 jenów. Jego życie zmienia się po spotkaniu z dziewczyną o imieniu Hiyori, która po wypadku zaczyna widzieć duchy. Razem zostają wciągnięci w nadprzyrodzony świat, gdzie boskie łączy się z ludzkim. Wizualnie atrakcyjne i emocjonalnie bogate, 'Noragami' oferuje unikalną perspektywę na interakcję między ludźmi a bogami."
+  },
+  {
+    "id": 4,
+    "name": "Jujutsu Kaisen",
+    "genre": "shonen, fantasy, akcja, thriller",
+    "description": "Yuji Itadori, który po przypadkowym połknięciu przeklętego palca demona Sukuny, zostaje wciągnięty do świata, w którym magia i klątwy są na porządku dziennym. Yuji zostaje uczniem Tokyo Metropolitan Jujutsu Technical School, gdzie uczy się kontrolować swoje nowe i niebezpieczne zdolności. Seria odkrywa mroczny, ukryty świat, w którym każda bitwa to nie tylko walka o przetrwanie, ale także konflikt ideologii i wartości moralnych. Yuji staje przed trudnymi wyborami i spotyka niezwykłych sojuszników, gdzie nic nie jest jednoznaczne. 'Jujutsu Kaisen' to nie tylko walka ze złem, ale także z wewnętrznymi demonami, które dręczą każdego z nas."
+  },
+  {
+    "id": 5,
+    "name": "Monogatari",
+    "genre": "fantasy, akcja, detektywistyczny, romans, komedia",
+    "description": "Twój dzień w szkole to nie tylko testy i zadania domowe, ale także spotkania z wampirami, bogami i różnymi mitycznymi stworzeniami. Witamy w życiu Koyomi Araragiego, ucznia szkoły średniej, który został ugryziony przez wampira i teraz znajduje się w nadprzyrodzonym świecie. Koyomi nie tylko rozwiązuje zadania z matematyki; pomaga swoim przyjaciołom zmierzyć się z osobistymi demonami, które dosłownie przybierają formę yōkai - japońskich istot mitycznych. Jedna dziewczyna może przemienić się w kota z powodu stresu, podczas gdy inna zamienia się w węża z powodu zazdrości. Oczekuj wielu dziwnych, czasami zabawnych i od czasu do czasu przerażających historii. Dzięki sprytnym dialogom i niekonwencjonalnemu podejściu do narracji, nigdy nie wiesz, czego się spodziewać. Dodaj do tego harem pełen skomplikowanych odniesień i pikantnych żartów, a otrzymasz serię sezonów fantastycznego anime."
+  },
+  {
+    "id": 6,
+    "name": "Hunter Hunter",
+    "genre": "przygodowy, akcja, fantasy, komedia, shonen",
+    "description": "Killua, dziedzic potężnej rodziny zabójców, i Gon, chłopiec poszukujący swojego ojca, ujawniają prawdziwe zrozumienie i rzadką bliskość. Ich przyjaźń, która rozwija się z każdym odcinkiem, jest sercem tej serii. Ma swoje chwile napięcia i nieporozumień, ale to właśnie czyni ją tak autentyczną i cenną. To anime pozostaje w pamięci, wzbudza emocje i uczy nas, że prawdziwa siła tkwi nie tylko w zwycięstwach, ale w tym, jak pokonujemy własne wady i stajemy się lepsi razem."
+  },
+  {
+    "id": 7,
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "genre": "isekai, przygoda, dramat, fantasy, komedia",
+    "description": "Bezwartościowy mężczyzna umiera i reinkarnuje się w innym świecie jako noworodek o imieniu Rudius. Z doświadczeniem z przeszłości i nowymi magicznymi zdolnościami postanawia nie powtarzać dawnych błędów i przeżyć to życie w pełni. Tak zaczynają się jego przygody, w których uczy się magii, bada nowy świat, zyskuje przyjaciół i staje przed wyzwaniami, które sprawią, że stanie się silniejszy zarówno fizycznie, jak i duchowo. To anime opowiada o tym, jak zniechęcony nieudacznik przemienia się w potężnego maga, starając się naprawić przeszłość i odnaleźć szczęście w nowym świecie."
+  },
+  {
+    "id": 8,
+    "name": "Mashle",
+    "genre": "shonen, sztuki walki, komedia, fantasy, szkoła",
+    "description": "W świecie, gdzie magia jest podstawą dla każdego normika, a niemagiczni są natychmiast likwidowani, żyje chłopak, który nie ma żadnych magicznych talentów. Ale Mashle się tym nie przejmuje; zamiast tego codziennie wykonuje dwadzieścia tysięcy serii z pięciotonowymi hantlami. Los chciał, że nasz główny bohater trafia do szkoły magii, gdzie wszystkie magiczne sztuczki pokonuje wyłącznie siłą brutto. To anime jest bezkompromisową parodią 'Harrego Pottera,' z Mashlem, który bardziej interesuje się kremówkami niż magią, i jego zdolnością przewyższania wszystkich mięśniami."
+  },
+  {
+    "id": 9,
+    "name": "Kamisama Hajimemashita",
+    "genre": "Fantasy, romans, komedia",
+    "description": "Dziewczyna, która nie ma dokąd pójść z powodu problemów rodzinnych, włóczy się po mieście i spotyka w parku mężczyznę, który wspiął się na drzewo, bo przestraszył się psa. Nanami pomaga mężczyźnie, który dziękuje jej całusem w czoło i oferuje jej swój dom. Kiedy dziewczyna przychodzi pod podany adres, znajduje zaniedbany świątynię, a w jej wnętrzu bezczelnego, ale niesamowicie przystojnego yokai. Uczennica, która straciła dom, nagle staje się boginią świątyni z własnym strażnikiem-yokaiem w postaci lisa, w którym się zakochuje. Nanami stopniowo uczy się być boginią, łącząc to z codziennym życiem szkolnym. To wzruszające anime z doskonałym elementem komediowym."
+  }
+]
